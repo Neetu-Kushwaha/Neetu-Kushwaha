@@ -8,4 +8,5 @@ Previously, I worked at the **Alan Turing Institute** and have experience in:
 - 🖼️ Computer Vision  
 - 🧠 Neural Network Debugging & Interpretability  
 
-Feel free to explore my repositories or reach out for **collaboration**! 🚀  
+🚀 Passionate about bridging the gap between **AI research** and **real-world applications**.  
+💡 Always open to exciting **collaborations**—feel free to connect! 
